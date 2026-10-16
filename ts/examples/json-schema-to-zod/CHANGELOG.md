@@ -1,5 +1,14 @@
 # json-schema-to-zod-example
 
+## 0.1.10
+
+### Patch Changes
+
+- Updated dependencies [e08c84f]
+- Updated dependencies [57de614]
+- Updated dependencies [04fdb41]
+  - @composio/core@0.26.0
+
 ## 0.1.9
 
 ### Patch Changes
